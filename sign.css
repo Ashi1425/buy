@@ -1,0 +1,14 @@
+.body{
+    margin: 0;
+    padding: 0;
+    
+}
+.log{
+    width: 120px;
+    height: 150px;
+    background-image: url(images/9db2c0dbc29802cdd540db19a0da8e8b.png);
+    background-size: cover;
+    background-position: center;
+    font-family: serif;
+    padding: 10px;
+}
